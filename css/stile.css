@@ -27,7 +27,7 @@ ul li {
     padding: auto;
 }
 
-.Caja .carousel img {
+.Caja.carousel img {
   width: 60px;
   height: 300px;
 }
