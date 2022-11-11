@@ -18,29 +18,26 @@ body {
     font-style: italic;
     color:black
  }
- ul { 
-    display: inline;
-    list-style-type: none;
-    text-align: center;
-    margin: auto;
-}
+ ul  { 
+   color:rgb(84, 3, 116)
+ } 
 
-ul li {
-    list-style-type: none;
-    display: inline;
-}
+ li {
+    color:rgb(84, 3, 116)
+ }
 
-.carrito.carrusel {
-    height: 10%;
-    padding: auto;
-}
-
-.carrito.carrusel {
-  width: 10px;
-  height: 10px;
-}
-
-footer {
+ footer {
     color: rgb(84, 3, 116);
+    text-align: right;
+    font-size: 100 px;
+}
+
+.alert {
+    color: rgb(84, 3, 116);
+}
+
+.carousel-item img{
+    height: 300px;
+    width: 150px;
 }
 
